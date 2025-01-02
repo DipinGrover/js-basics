@@ -7,3 +7,4 @@ var c = 18;
 console.log(a);
 console.log(b);
 console.log(c);
+
